@@ -1,0 +1,18 @@
+body{
+
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.content{
+    border-color: black;
+ 
+}
+table, td, th {
+    border: 1px solid;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
